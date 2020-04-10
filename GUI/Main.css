@@ -1,0 +1,15 @@
+.root {
+    -fx-background-color: lightgrey;
+}
+
+.flow-pane {
+    -fx-hgap: 15;
+    -fx-label-padding: 20;
+}
+
+.button {
+    -fx-pref-width: 75px;
+    -fx-border-color: black;
+    -fx-border-radius: 4px;
+}
+

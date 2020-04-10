@@ -1,0 +1,22 @@
+.root {
+    -fx-background-color: lightgrey;
+}
+
+.text-field {
+    -fx-alignment: center;
+    -fx-border-color: black;
+}
+
+.text-field.error {
+    -fx-border-color: red;
+}
+
+.text-field:focused {
+    -fx-alignment: center-left;
+}
+
+.button {
+    -fx-pref-width: 75px;
+    -fx-border-color: black;
+    -fx-border-radius: 4px;
+}
